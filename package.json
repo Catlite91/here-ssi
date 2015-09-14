@@ -1,0 +1,65 @@
+{
+  "name": "here-ssi",
+  "version": "0.1.2",
+  "description": "支持ssi的here本地服务",
+  "homepage": "https://github.com/jayli/here-ssi",
+  "bin": {
+    "here": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayli/here-ssi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayli/here-ssi/issues"
+  },
+  "keywords": [
+    "static server",
+    "server",
+    "ssi"
+  ],
+  "author": {
+    "name": "拔赤"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "mace": "^2.1.2"
+  },
+  "dependencies": {
+    "chokidar": "^1.0.1",
+    "jade": "^1.9.2",
+    "joinbuffers": "~0.1.1",
+    "iconv-lite": "^0.4.11",
+    "less": "~1.7.5",
+    "node-sass": "3.2.0",
+    "ws": "^0.7.2"
+  },
+  "maintainers": [
+    {
+      "name": "bachi",
+      "email": "bachi@taobao.com"
+    }
+  ],
+  "directories": {},
+  "publish_time": 1440571575337,
+  "gitHead": "4a229debedeb3960bc74c7dcc429a1753230c767",
+  "_id": "here-ssi@0.1.2",
+  "scripts": {},
+  "_shasum": "659e29a1e457ece842b7055628fc8e712070e9c6",
+  "_from": "here-ssi@*",
+  "_npmVersion": "2.13.5",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "bachi",
+    "email": "bachi@taobao.com"
+  },
+  "dist": {
+    "shasum": "659e29a1e457ece842b7055628fc8e712070e9c6",
+    "size": 50553,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/here-ssi/download/here-ssi-0.1.2.tgz"
+  },
+  "_cnpm_publish_time": 1440571575337,
+  "_resolved": "https://registry.npm.taobao.org/here-ssi/download/here-ssi-0.1.2.tgz"
+}
