@@ -1,7 +1,21 @@
 .DS_Store
 node_modules
+<<<<<<< HEAD
 npm-debug.log
 .sass-cache
 *.swp
 .sw*
 .idea/*
+=======
+*/node_modules
+npm-debug.log
+*.swp
+.sw*
+.idea/*
+.editorconfig
+.jshintrc
+.travis.yml
+.sass-cache/
+.project
+mods/.sass-cache/
+>>>>>>> 8c00bfc1faffb7b7d45866b49fc68c05ccb50801

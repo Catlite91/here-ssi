@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jayli/here-ssi.git"
+    "url": "https://github.com/jayli/here-ssi.git"
   },
   "bugs": {
     "url": "https://github.com/jayli/here-ssi/issues"
@@ -62,4 +62,5 @@
   },
   "_cnpm_publish_time": 1440571575337,
   "_resolved": "https://registry.npm.taobao.org/here-ssi/download/here-ssi-0.1.2.tgz"
+  "publish_time": 1432694173170
 }

@@ -98,3 +98,8 @@ by 拔赤
 [npm-downloads-image]: http://img.shields.io/npm/dm/here-ssi.svg?style=flat
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
+<<<<<<< HEAD
+=======
+
+TODO: 兼容flexcombo
+>>>>>>> 8c00bfc1faffb7b7d45866b49fc68c05ccb50801
