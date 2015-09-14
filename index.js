@@ -22,21 +22,12 @@ var util = require('util'),
                 '[-p PORT]' + ' ' +
                 '[-d DIRECTORY]' + ' ' +
                 '[-v]' + ' ' +
-<<<<<<< HEAD
                 '[-s]' + ' ' +
                 '[-w]' + '\n' +
                 color('-p, --port      ', 'green') + 'specify port; default 3000' + '\n' +
                 color('-d, --directory ', 'green') + 'specify root directory; default .' + '\n' +
                 color('-v, --verbose   ', 'green') + 'verbose log' + '\n' +
                 color('-s, --silent    ', 'green') + 'will not open browser' + '\n' +
-=======
-                '[-s]' + ' ' + '\n' +
-                '[-w]' +
-                color('-p, --port      ', 'green') + 'specify port; default 3000' + '\n' +
-                color('-d, --directory ', 'green') + 'specify root directory; default .' + '\n' +
-                color('-v, --verbose   ', 'green') + 'verbose log' + '\n' +
-                color('-s, --silent    ', 'green') + 'will not open browser' +
->>>>>>> 8c00bfc1faffb7b7d45866b49fc68c05ccb50801
                 color('-w, --watch     ', 'green') + 'will watch html,js,css files; once changed, reload'
             );
         } else {
